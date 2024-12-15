@@ -1,0 +1,14 @@
+C:\Users\Roman\source\repos\Weel15_OOP\Weel15_OOP\bin\Debug\net8.0\Weel15_OOP.exe
+C:\Users\Roman\source\repos\Weel15_OOP\Weel15_OOP\bin\Debug\net8.0\Weel15_OOP.deps.json
+C:\Users\Roman\source\repos\Weel15_OOP\Weel15_OOP\bin\Debug\net8.0\Weel15_OOP.runtimeconfig.json
+C:\Users\Roman\source\repos\Weel15_OOP\Weel15_OOP\bin\Debug\net8.0\Weel15_OOP.dll
+C:\Users\Roman\source\repos\Weel15_OOP\Weel15_OOP\bin\Debug\net8.0\Weel15_OOP.pdb
+C:\Users\Roman\source\repos\Weel15_OOP\Weel15_OOP\obj\Debug\net8.0\Weel15_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roman\source\repos\Weel15_OOP\Weel15_OOP\obj\Debug\net8.0\Weel15_OOP.AssemblyInfoInputs.cache
+C:\Users\Roman\source\repos\Weel15_OOP\Weel15_OOP\obj\Debug\net8.0\Weel15_OOP.AssemblyInfo.cs
+C:\Users\Roman\source\repos\Weel15_OOP\Weel15_OOP\obj\Debug\net8.0\Weel15_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Roman\source\repos\Weel15_OOP\Weel15_OOP\obj\Debug\net8.0\Weel15_OOP.dll
+C:\Users\Roman\source\repos\Weel15_OOP\Weel15_OOP\obj\Debug\net8.0\refint\Weel15_OOP.dll
+C:\Users\Roman\source\repos\Weel15_OOP\Weel15_OOP\obj\Debug\net8.0\Weel15_OOP.pdb
+C:\Users\Roman\source\repos\Weel15_OOP\Weel15_OOP\obj\Debug\net8.0\Weel15_OOP.genruntimeconfig.cache
+C:\Users\Roman\source\repos\Weel15_OOP\Weel15_OOP\obj\Debug\net8.0\ref\Weel15_OOP.dll

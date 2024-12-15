@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Roman\\source\\repos\\Weel15_OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{519E60CC-F5D0-4C36-9F96-781F5652046A}|Weel15_OOP\\Weel15_OOP.csproj|c:\\users\\roman\\source\\repos\\weel15_oop\\weel15_oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519E60CC-F5D0-4C36-9F96-781F5652046A}|Weel15_OOP\\Weel15_OOP.csproj|solutionrelative:weel15_oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Roman\\source\\repos\\Weel15_OOP\\Weel15_OOP\\Program.cs",
+              "RelativeDocumentMoniker": "Weel15_OOP\\Program.cs",
+              "ToolTip": "C:\\Users\\Roman\\source\\repos\\Weel15_OOP\\Weel15_OOP\\Program.cs*",
+              "RelativeToolTip": "Weel15_OOP\\Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T21:41:40.602Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
